@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo-camera": "^16.1.11",
+    "expo-file-system": "^18.1.11",
+    "expo-gl": "^15.1.7",
+    "expo-gl-cpp": "^11.4.0",
+    "expo-media-library": "^17.1.7"
+  }
+}
